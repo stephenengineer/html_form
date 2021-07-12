@@ -1,6 +1,13 @@
 # HTML Form
 
-HTML Form
+Simple practice HTML form built using mobile-first development practices.
+
+## Technology
+
+### Built with:
+
+- HTML
+- CSS
 
 ## About Me
 
